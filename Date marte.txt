@@ -1,0 +1,3 @@
+<html>
+<head>
+<title>Detalii marte</title>
